@@ -1,1 +1,0 @@
-Este repositório contém a solução para o teste de entrevista de emprego Teste Dados CNPJ. O objetivo do teste é desenvolver uma automação UiPath que baixe alguns dados do site do governo. Não se esqueça de definir botDirectory, emailRecipients, smtpServer, smtpPort, smtpEmail e smtpPassword se você for executar o bot
